@@ -96,8 +96,7 @@ public class Main {
                     System.out.println("INGRESE OPCION\n");                    
                     break;
                 /**
-                 * En éste caso, si el usuario digita un número fuera del rango de opciones,
-                 * el sistema le recuerda cuál es el rango.
+                 * En éste caso, si el usuario desea salir del menú o programa selecciona la opción 5.
                  */                    
                 default:
                     System.out.println("-.*ADIOS AMIGO.....-.*");                    
