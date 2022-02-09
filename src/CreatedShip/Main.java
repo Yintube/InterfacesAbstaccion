@@ -100,7 +100,7 @@ public class Main {
                  * el sistema le recuerda cuál es el rango.
                  */                    
                 default:
-                    System.out.println("!UPS...LAS OPCIONES SON ENTRE 4 Y 5");                    
+                    System.out.println("-.*ADIOS AMIGO.....-.*");                    
                 }                                                                           
         /**
          * Fin del ciclo do-while
